@@ -34,7 +34,4 @@ none
 
 #### Questions:
 
-![] (Develop/Readme-Generator/giphy-one.gif)
-
-![] (Develop/Readme-Generator/giphy-two.gif)
 
