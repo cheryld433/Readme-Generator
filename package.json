@@ -6,24 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cheryldaniels",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
     "dotenv": "^8.0.0",
     "inquirer": "^6.3.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cheryld433/Readme-Generator.git"
-  },
-  "keywords": [
-    "init",
-    "node",
-    "npm"
-  ],
-  "bugs": {
-    "url": "https://github.com/cheryld433/Readme-Generator/issues"
-  },
-  "homepage": "https://github.com/cheryld433/Readme-Generator#readme"
+  }
 }
