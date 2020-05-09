@@ -1,10 +1,10 @@
 
 # README
 
-![License: BSD](https://img.shields.io/badge/License-BSD-brightgreen)
+![License: GPL](https://img.shields.io/badge/License-GPL-brightgreen)
 
 ## Description: 
-this is a description of the file
+one paragraph description
 
 ## Table of Content:
   * [Installation](#installation)
@@ -24,7 +24,7 @@ this is a description of the file
 npm install
 
 ## Usage:
-use it this way
+use examples
 
 ## Contributors:
 Cheryl Daniels
@@ -33,4 +33,8 @@ Cheryl Daniels
 none
 
 #### Questions:
+
+![] (Develop/Readme-Generator/giphy-one.gif)
+
+![] (Develop/Readme-Generator/giphy-two.gif)
 
