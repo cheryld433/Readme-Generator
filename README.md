@@ -1,10 +1,13 @@
 
 # README
 
+
+# README
+
 ![License: GPL](https://img.shields.io/badge/License-GPL-brightgreen)
 
 ## Description: 
-one paragraph description
+project description goes here.
 
 ## Table of Content:
   * [Installation](#installation)
@@ -24,7 +27,7 @@ one paragraph description
 npm install
 
 ## Usage:
-use examples
+use examples 
 
 ## Contributors:
 Cheryl Daniels
@@ -34,6 +37,3 @@ none
 
 #### Questions:
 
-![](giphy-one.gif)
-
-![](giphy-twp.gif)
